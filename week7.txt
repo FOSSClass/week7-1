@@ -1,0 +1,55 @@
+“An Industry Guide to Becoming a Software Engineer” 
+by Bill Langenberg
+
+By Mohamed Mohamed Saint Paul College
+
+1st Guide: Never stop learning, Want to have a great career, enjoy what you do, and be at least some where successful? 
+Make sure you never stop learning new things to become a better software engineer. 
+I will not talk too deep into this point since am not doing software engineering 
+but I must reiterate how important it is to keep fresh with updated skills. 
+After all there is a reasons software engineers tend to make a decent salary;
+it's not easy to do what they do. However I think if you get t deep in it, 
+the career is totally fulfilling and presents something interesting every day.
+
+
+
+I am network engineer focused with technologies on the Microsoft Associate for almost 3 years.
+I'm also not new to this software engineer. Holding professional jobs in this time span has allowed me to 
+work with a slew of diverse 
+professionals and allowed me to soak up and experience a lot about being a software engineer too.
+Since my experience roughly dates to the new millennium, 
+I feel a lot of what I have to say holds relevant today as opposed to experience from writing on a mainframe system,
+
+
+Best site for software engineering. Followed behind this I like Monster.com. 
+(There is also Stack Overflow careers, but I believe it's by invitation only. 
+In the future, consider getting a Stack Overflow account, and begin building 
+reputation to get an invitation to this site as well.) 
+Both Dice and Monster have search agents that you can set up that will send you emails 
+of new jobs in search areas and locations you specify 
+(i.e. Orlando, FL .NET Software Engineering Jobs). 
+Let the results come to you rather than constantly pulling them.
+You can fine tune the search agents so you do not get bombarded with 
+Senior level positions requiring 10 years of experience.
+Jump on the opportunity to be the first to send in your application
+and resume for new positions. Believe it or not, 
+many companies will look to fill positions where a tenured employee
+has just left and a replacement is needed quickly. 
+Remember the old saying, "the early bird gets the worm". 
+Looking around at jobs on these sites will help you get a feel 
+of requirements, salary, location, etc. 
+Be forewarned that filling out all of the information on these sites is time
+consuming, so be prepared to set aside some time. 
+However the effort could pay dividends in getting that job you desire.
+
+HOW TO BE PRODUCTIVE: BALANCE SPEED vs. SELF-SUFFICIENCY 
+When you take a software engineering job, your employer 
+is going to expect you to be productive.
+The best performing engineers are able to balance asking
+teammates for answers to get unblocked quickly against 
+spending time to figure out the answer themselves.
+A general rule of thumb is to spend 30-60 minutes trying
+to figure something out yourself before interrupting someone else, 
+unless it’s a trivial question he or she can answer out of hand.
+Try to group your questions together and answer them in a contiguous block 
+of time.
